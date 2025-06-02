@@ -27,5 +27,4 @@ I am a passionate Erontend Developer with experience in building efficient, user
 
 ## 📫 Get in Touch
 - LinkedIn: [Jyotsana Yadav](https://www.linkedin.com/in/jyotsana-yadav-2b2707276)
-- Portfolio: 
 - Email: jyotsanay89@gmail.com
